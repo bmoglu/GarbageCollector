@@ -1,2 +1,2 @@
 # GarbageCollector
-Garbage collector robot with arduino
+Autonomous garbage collector robot with arduino
