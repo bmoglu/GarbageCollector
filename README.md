@@ -1,2 +1,3 @@
-# GarbageCollector
-Autonomous garbage collector robot with arduino
+# Autonomous Garbage Collector Robot With Arduino
+
+**Developed with C for Arduino..**
